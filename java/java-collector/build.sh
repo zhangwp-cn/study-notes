@@ -1,0 +1,1 @@
+mvn clean -U package org.springframework.boot:spring-boot-maven-plugin:repackage -Dae.buildId=123456 -Dae.build.outputDirecotry=`pwd`/target/classes
